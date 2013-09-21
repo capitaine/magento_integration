@@ -90,11 +90,11 @@ System >> Magento Connect >> Magento Connect Manager
 
 **Preparation of the Python environment**
 
-1. Download the `magento module <https://github.com/openlabs/magento>`_ and install it in your python directory
+1. If not already installed by the default python installation, download the pycountry module and install it in your python directory
 
-2. Download the pycountry module and install it in your python directory
+2. Download the `magento module <https://github.com/openlabs/magento>`_ and install it in your python directory
 
-(if you have openERP installed on a Windows system, copy the above modules from YourPythonDir\\Lib\\site-packages to YourOpenErpDir\\Server\\server)
+(if your openERP is installed on a Windows system, copy the above modules from YourPythonDir\\Lib\\site-packages to YourOpenErpDir\\Server\\server)
 
 **Downloading the magento_integration module**
 
